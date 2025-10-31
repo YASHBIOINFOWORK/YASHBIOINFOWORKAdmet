@@ -1,12 +1,1 @@
-name: admet_env
-channels:
-  - conda-forge
-dependencies:
-  - python=3.9
-  - rdkit
-  - pandas
-  - pillow
-  - pip
-  - pip:
-      - streamlit
-      - plotly
+
